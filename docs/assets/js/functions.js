@@ -225,7 +225,7 @@ var e = {
     // START: 03 Active class
     activeClass: function () {
       var currentPath = window.location.pathname;
-      var path = currentPath.split("index.html").pop();
+      var path = currentPath.split("index").pop();
 
       var d = e.select(".navbar .left-sidebar");
       if(e.isVariableDefined(d)) {

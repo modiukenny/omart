@@ -111,7 +111,7 @@
 	<nav class="navbar navbar-expand-xl">
 		<div class="container">
 			<!-- Logo START -->
-			<a class="navbar-brand me-0" href="index-2.html">
+			<a class="navbar-brand me-0" href="index-2">
 				<img class="light-mode-item navbar-brand-item" src="assets/images/logo.svg" alt="logo">
 				<img class="dark-mode-item navbar-brand-item" src="assets/images/logo-light.svg" alt="logo">
 			</a>
@@ -122,7 +122,7 @@
 			<div class="navbar-collapse collapse" id="navbarCollapse">
 				<ul class="navbar-nav navbar-nav-scroll dropdown-hover mx-auto">
 
-					<li class="nav-item"> <a class="nav-link active" href="index.html">Home</a> </li>
+					<li class="nav-item"> <a class="nav-link active" href="index">Home</a> </li>
 					<!-- Nav item -->
 					<li class="nav-item dropdown">
 						<a class="nav-link dropdown-toggle" href="#" data-bs-toggle="dropdown" data-bs-auto-close="outside" aria-haspopup="true" aria-expanded="false">All Products</a>
@@ -131,17 +131,17 @@
 							<li class="dropdown dropend">
 								<a class="nav-link dropdown-link dropdown-toggle" data-bs-toggle="dropdown" href="#">Corporate Branding</a>
 								<ul class="dropdown-menu" data-bs-popper="none">
-									<li> <a class="dropdown-item" href="businesscard.html">Business Card</a></li>
-									<li> <a class="dropdown-item" href="flyer.html">Flyer</a></li>
-									<li> <a class="dropdown-item" href="lanyard.html">Lanyard</a></li>
-									<li> <a class="dropdown-item" href="logo.html">Logo</a></li>
-									<li> <a class="dropdown-item" href="banner.html">Banner</a></li>
-									<li> <a class="dropdown-item" href="sticker.html">Sticker</a></li>
-									<li> <a class="dropdown-item" href="tag.html">Tag</a></li>
-									<li> <a class="dropdown-item" href="letterhead.html">Letterhead</a></li>
-									<li> <a class="dropdown-item" href="roll-up.html">Roll-up Banner</a></li>
-									<li> <a class="dropdown-item" href="t-shirt.html">T-shirt</a></li>
-									<li> <a class="dropdown-item" href="stamp.html">Stamp</a></li>
+									<li> <a class="dropdown-item" href="businesscard">Business Card</a></li>
+									<li> <a class="dropdown-item" href="flyer">Flyer</a></li>
+									<li> <a class="dropdown-item" href="lanyard">Lanyard</a></li>
+									<li> <a class="dropdown-item" href="logo">Logo</a></li>
+									<li> <a class="dropdown-item" href="banner">Banner</a></li>
+									<li> <a class="dropdown-item" href="sticker">Sticker</a></li>
+									<li> <a class="dropdown-item" href="tag">Tag</a></li>
+									<li> <a class="dropdown-item" href="letterhead">Letterhead</a></li>
+									<li> <a class="dropdown-item" href="roll-up">Roll-up Banner</a></li>
+									<li> <a class="dropdown-item" href="t-shirt">T-shirt</a></li>
+									<li> <a class="dropdown-item" href="stamp">Stamp</a></li>
 								</ul>
 							</li>
 							<!-- Dropdown submenu -->
@@ -151,40 +151,40 @@
 									<li class="dropdown dropend">
 										<a class="nav-link dropdown-link dropdown-toggle" data-bs-toggle="dropdown" href="#">Bag</a>
 										<ul class="dropdown-menu" data-bs-popper="none">
-											<li> <a class="dropdown-item" href="paper-bag.html">Paper Bag</a></li>
-											<li> <a class="dropdown-item" href="mailing-bag.html">Mailing Bag</a></li>
-											<li> <a class="dropdown-item" href="nylon-bag.html">Nylon Bag</a></li>
-											<li> <a class="dropdown-item" href="drawstring-bag.html">Drawstring Bag</a></li>
-											<li> <a class="dropdown-item" href="tote-bag.html">Tote Bag</a></li>
+											<li> <a class="dropdown-item" href="paper-bag">Paper Bag</a></li>
+											<li> <a class="dropdown-item" href="mailing-bag">Mailing Bag</a></li>
+											<li> <a class="dropdown-item" href="nylon-bag">Nylon Bag</a></li>
+											<li> <a class="dropdown-item" href="drawstring-bag">Drawstring Bag</a></li>
+											<li> <a class="dropdown-item" href="tote-bag">Tote Bag</a></li>
 										</ul>
 									</li>
 									<li class="dropdown dropend">
 										<a class="nav-link dropdown-link dropdown-toggle" data-bs-toggle="dropdown" href="#">Notepad/Diary</a>
 										<ul class="dropdown-menu" data-bs-popper="none">
-											<li> <a class="dropdown-item" href="jotter.html">Jotter</a></li>
-											<li> <a class="dropdown-item" href="diary.html">Diary</a></li>
+											<li> <a class="dropdown-item" href="jotter">Jotter</a></li>
+											<li> <a class="dropdown-item" href="diary">Diary</a></li>
 										</ul>
 									</li>
-									<li> <a class="dropdown-item" href="key-holder.html">Key Holder</a></li>
-									<li> <a class="dropdown-item" href="food-packaging-box.html">Food Packaging Box</a></li>
-									<li> <a class="dropdown-item" href="party-cup.html">Party Cup</a></li>
-									<li> <a class="dropdown-item" href="table-tag.html">Table Tag</a></li>
-									<li> <a class="dropdown-item" href="cap&hat.html">Cap & Hat</a></li>
-									<li> <a class="dropdown-item" href="pen.html">Pen</a></li>
-									<li> <a class="dropdown-item" href="flash.html">Branded Flash</a></li>
-									<li> <a class="dropdown-item" href="clock.html">Wooden Clock</a></li>
-									<li> <a class="dropdown-item" href="wedding-card.html">Wedding Card</a></li>
-									<li> <a class="dropdown-item" href="acrylic-table.html">Acrylic Table</a></li>
-									<li> <a class="dropdown-item" href="calendar.html">Calendar</a></li>
-									<li> <a class="dropdown-item" href="mug.html">Mug</a></li>
-									<li> <a class="dropdown-item" href="season-greeting-card.html">Season Greeting Card</a></li>
-									<li> <a class="dropdown-item" href="water-bottle.html">Water Bottle</a></li>
+									<li> <a class="dropdown-item" href="key-holder">Key Holder</a></li>
+									<li> <a class="dropdown-item" href="food-packaging-box">Food Packaging Box</a></li>
+									<li> <a class="dropdown-item" href="party-cup">Party Cup</a></li>
+									<li> <a class="dropdown-item" href="table-tag">Table Tag</a></li>
+									<li> <a class="dropdown-item" href="cap&hat">Cap & Hat</a></li>
+									<li> <a class="dropdown-item" href="pen">Pen</a></li>
+									<li> <a class="dropdown-item" href="flash">Branded Flash</a></li>
+									<li> <a class="dropdown-item" href="clock">Wooden Clock</a></li>
+									<li> <a class="dropdown-item" href="wedding-card">Wedding Card</a></li>
+									<li> <a class="dropdown-item" href="acrylic-table">Acrylic Table</a></li>
+									<li> <a class="dropdown-item" href="calendar">Calendar</a></li>
+									<li> <a class="dropdown-item" href="mug">Mug</a></li>
+									<li> <a class="dropdown-item" href="season-greeting-card">Season Greeting Card</a></li>
+									<li> <a class="dropdown-item" href="water-bottle">Water Bottle</a></li>
 								</ul>
 							</li>
 							
 							<!-- Dropdown divider -->
 							<li> <hr class="dropdown-divider"></li>
-							<li> <a class="dropdown-item" href="graphic-design.html">Graphic Design</a></li>
+							<li> <a class="dropdown-item" href="graphic-design">Graphic Design</a></li>
 
 
 							
@@ -193,8 +193,8 @@
 					</li>
 
 					<!-- Nav item -->
-					<li class="nav-item"> <a class="nav-link" href="aboutus.html">About Us</a> </li>
-					<li class="nav-item"> <a class="nav-link" href="contact.html" >Contact us</a> </li>
+					<li class="nav-item"> <a class="nav-link" href="aboutus">About Us</a> </li>
+					<li class="nav-item"> <a class="nav-link" href="contact" >Contact us</a> </li>
 
 		
 				</ul>
@@ -299,7 +299,7 @@ Main Banner START -->
 										<!-- Badge -->
 										<a href="#" class="badge text-bg-dark mb-4">Printing</a>
 										<!-- Title -->
-										<p class="mb-4"><a href="blog-single-v2.html" class="text-white text-primary-hover">High-quality printing transforms designs into tangible products that leave a lasting impact. From business cards to banners, we deliver flawless prints that showcase your brand.</a></p>
+										<p class="mb-4"><a href="blog-single-v2" class="text-white text-primary-hover">High-quality printing transforms designs into tangible products that leave a lasting impact. From business cards to banners, we deliver flawless prints that showcase your brand.</a></p>
 										<!-- <ul class="nav nav-divider mb-0 justify-content-center small">
 											<li class="nav-item text-white"><a href="#" class="text-decoration-underline"><i class="bi bi-person me-2"></i>Frances Guerrero</a></li>
 											<li class="nav-item text-white"><i class="bi bi-calendar me-2"></i>Nov 5, 2018</li>
@@ -327,7 +327,7 @@ Main Banner START -->
 										<!-- Badge -->
 										<a href="#" class="badge text-bg-dark mb-4">Branding</a>
 										<!-- Title -->
-										<p class="mb-4"><a href="blog-single-v1.html" class="text-white text-primary-hover">We create a unique identity for your brand, a unique branding that connects your business with customers through visuals, and aesthetic branding.</a></p>
+										<p class="mb-4"><a href="blog-single-v1" class="text-white text-primary-hover">We create a unique identity for your brand, a unique branding that connects your business with customers through visuals, and aesthetic branding.</a></p>
 									
 									</div>
 								</div>
@@ -351,7 +351,7 @@ Main Banner START -->
 										<!-- Badge -->
 										<a href="#" class="badge text-bg-dark mb-4">Graphic Design</a>
 										<!-- Title -->
-										<p class="mb-4"><a href="blog-single-v2.html" class="text-white text-primary-hover">We transform ideas into visually compelling solutions that communicate, inspire, and engage. Whether it’s through graphic design, product design, or digital layout.</a></p>
+										<p class="mb-4"><a href="blog-single-v2" class="text-white text-primary-hover">We transform ideas into visually compelling solutions that communicate, inspire, and engage. Whether it’s through graphic design, product design, or digital layout.</a></p>
 										
 									</div>
 								</div>
@@ -403,13 +403,13 @@ Blog list and sidebar START -->
 					<!-- Card Body -->
 					<div class="card-body px-2 pb-4">
 						<!-- Title -->
-						<h6 class="card-title mb-2"><a href="businesscard.html">Business Card</a></h6>
+						<h6 class="card-title mb-2"><a href="businesscard">Business Card</a></h6>
 						<p class="small mb-0">Stand out with a sleek, double-sided business card that showcases your brand and provides all your contact details in style. Maximize impact with a professional design that leaves a lasting impression.</p>
 					</div>
 					
 					<!-- Card footer -->
 					<div class="card-footer bg-transparent d-flex justify-content-between px-2 py-0">
-						<a class="icon-link icon-link-hover stretched-link text-dark" href="businesscard.html">Read more<i class="bi bi-arrow-right"></i> </a>
+						<a class="icon-link icon-link-hover stretched-link text-dark" href="businesscard">Read more<i class="bi bi-arrow-right"></i> </a>
 					</div>
 				</article>
 			</div>
@@ -425,13 +425,13 @@ Blog list and sidebar START -->
 		<!-- Card Body -->
 		<div class="card-body px-2 pb-4">
 			<!-- Title -->
-			<h6 class="card-title mb-2"><a href="paper-bag.html">Paper Bag</a></h6>
+			<h6 class="card-title mb-2"><a href="paper-bag">Paper Bag</a></h6>
 			<p class="small mb-0">Design and print quality paper bag and have it delivered to your doorstep within Lagos, Nigeria or Nationwide.</p>
 		</div>
 		
 		<!-- Card footer -->
 		<div class="card-footer bg-transparent d-flex justify-content-between px-2 py-0">
-			<a class="icon-link icon-link-hover stretched-link text-dark" href="paper-bag.html">Read more<i class="bi bi-arrow-right"></i> </a>
+			<a class="icon-link icon-link-hover stretched-link text-dark" href="paper-bag">Read more<i class="bi bi-arrow-right"></i> </a>
 		</div>
 	</article>
 </div>
@@ -448,13 +448,13 @@ Blog list and sidebar START -->
 		<!-- Card Body -->
 		<div class="card-body px-2 pb-4">
 			<!-- Title -->
-			<h6 class="card-title mb-2"><a href="pen.html">Pen</a></h6>
+			<h6 class="card-title mb-2"><a href="pen">Pen</a></h6>
 			<p class="small mb-0">Write your story in style with our sleek, branded pen—where elegance meets everyday practicality. Make your mark today.</p>
 		</div>
 		
 		<!-- Card footer -->
 		<div class="card-footer bg-transparent d-flex justify-content-between px-2 py-0">
-			<a class="icon-link icon-link-hover stretched-link text-dark" href="pen.html">Read more<i class="bi bi-arrow-right"></i> </a>
+			<a class="icon-link icon-link-hover stretched-link text-dark" href="pen">Read more<i class="bi bi-arrow-right"></i> </a>
 		</div>
 	</article>
 </div>
@@ -471,13 +471,13 @@ Blog list and sidebar START -->
 		<!-- Card Body -->
 		<div class="card-body px-2 pb-4">
 			<!-- Title -->
-			<h6 class="card-title mb-2"><a href="sticker.html">Sticker</a></h6>
+			<h6 class="card-title mb-2"><a href="sticker">Sticker</a></h6>
 			<p class="small mb-0">Design and print top quality stickers and have it delivered right to your doorstep anywhere in Lagos, Nigeria or Nationwide.</p>
 		</div>
 		
 		<!-- Card footer -->
 		<div class="card-footer bg-transparent d-flex justify-content-between px-2 py-0">
-			<a class="icon-link icon-link-hover stretched-link text-dark" href="sticker.html">Read more<i class="bi bi-arrow-right"></i> </a>
+			<a class="icon-link icon-link-hover stretched-link text-dark" href="sticker">Read more<i class="bi bi-arrow-right"></i> </a>
 		</div>
 	</article>
 </div>
@@ -494,13 +494,13 @@ Blog list and sidebar START -->
 		<!-- Card Body -->
 		<div class="card-body px-2 pb-4">
 			<!-- Title -->
-			<h6 class="card-title mb-2"><a href="letterhead.html">Letterhead</a></h6>
+			<h6 class="card-title mb-2"><a href="letterhead">Letterhead</a></h6>
 			<p class="small mb-0">Letterheads define the style of your correspondence documents and have it delivered right to your doorstep anywhere in Lagos, Nigeria or Nationwide.</p>
 		</div>
 		
 		<!-- Card footer -->
 		<div class="card-footer bg-transparent d-flex justify-content-between px-2 py-0">
-			<a class="icon-link icon-link-hover stretched-link text-dark" href="letterhead.html">Read more<i class="bi bi-arrow-right"></i> </a>
+			<a class="icon-link icon-link-hover stretched-link text-dark" href="letterhead">Read more<i class="bi bi-arrow-right"></i> </a>
 		</div>
 	</article>
 </div>
@@ -517,13 +517,13 @@ Blog list and sidebar START -->
 		<!-- Card Body -->
 		<div class="card-body px-2 pb-4">
 			<!-- Title -->
-			<h6 class="card-title mb-2"><a href="id-card.html">Plastic ID Card</a></h6>
+			<h6 class="card-title mb-2"><a href="id-card">Plastic ID Card</a></h6>
 			<p class="small mb-0">ID card printing ensures secure identification and access control. It is widely used for employee badges, student IDs, and event passes and have it delivered right to your doorstep anywhere in Lagos, Nigeria or Nationwide.</p>
 		</div>
 		
 		<!-- Card footer -->
 		<div class="card-footer bg-transparent d-flex justify-content-between px-2 py-0">
-			<a class="icon-link icon-link-hover stretched-link text-dark" href="id-card.html">Read more<i class="bi bi-arrow-right"></i> </a>
+			<a class="icon-link icon-link-hover stretched-link text-dark" href="id-card">Read more<i class="bi bi-arrow-right"></i> </a>
 		</div>
 	</article>
 </div>
@@ -540,13 +540,13 @@ Blog list and sidebar START -->
 		<!-- Card Body -->
 		<div class="card-body px-2 pb-4">
 			<!-- Title -->
-			<h6 class="card-title mb-2"><a href="roll-up.html">Rollup Banner</a></h6>
+			<h6 class="card-title mb-2"><a href="roll-up">Rollup Banner</a></h6>
 			<p class="small mb-0">Showcase your products and service during promotional events with quality rollup banner design and print and have it delivered right to your doorstep anywhere in Lagos, Nigeria or Nationwide.</p>
 		</div>
 		
 		<!-- Card footer -->
 		<div class="card-footer bg-transparent d-flex justify-content-between px-2 py-0">
-			<a class="icon-link icon-link-hover stretched-link text-dark" href="roll-up.html">Read more<i class="bi bi-arrow-right"></i> </a>
+			<a class="icon-link icon-link-hover stretched-link text-dark" href="roll-up">Read more<i class="bi bi-arrow-right"></i> </a>
 		</div>
 	</article>
 </div>
@@ -563,13 +563,13 @@ Blog list and sidebar START -->
 		<!-- Card Body -->
 		<div class="card-body px-2 pb-4">
 			<!-- Title -->
-			<h6 class="card-title mb-2"><a href="t-shirt.html">T-shirt</a></h6>
+			<h6 class="card-title mb-2"><a href="t-shirt">T-shirt</a></h6>
 			<p class="small mb-0">Promote your brand, business and event with these awesome black t-shirts.</p>
 		</div>
 		
 		<!-- Card footer -->
 		<div class="card-footer bg-transparent d-flex justify-content-between px-2 py-0">
-			<a class="icon-link icon-link-hover stretched-link text-dark" href="t-shirt.html">Read more<i class="bi bi-arrow-right"></i> </a>
+			<a class="icon-link icon-link-hover stretched-link text-dark" href="t-shirt">Read more<i class="bi bi-arrow-right"></i> </a>
 		</div>
 	</article>
 </div>
@@ -586,13 +586,13 @@ Blog list and sidebar START -->
 		<!-- Card Body -->
 		<div class="card-body px-2 pb-4">
 			<!-- Title -->
-			<h6 class="card-title mb-2"><a href="logo.html">Logo Design</a></h6>
+			<h6 class="card-title mb-2"><a href="logo">Logo Design</a></h6>
 			<p class="small mb-0">Order professional stunning logo design of 3 options, get your brand straight to a greater height with our creative our logo designer in Lagos, Nigeria or Nationwide.</p>
 		</div>
 		
 		<!-- Card footer -->
 		<div class="card-footer bg-transparent d-flex justify-content-between px-2 py-0">
-			<a class="icon-link icon-link-hover stretched-link text-dark" href="logo.html">Read more<i class="bi bi-arrow-right"></i> </a>
+			<a class="icon-link icon-link-hover stretched-link text-dark" href="logo">Read more<i class="bi bi-arrow-right"></i> </a>
 		</div>
 	</article>
 </div>
@@ -609,13 +609,13 @@ Blog list and sidebar START -->
 		<!-- Card Body -->
 		<div class="card-body px-2 pb-4">
 			<!-- Title -->
-			<h6 class="card-title mb-2"><a href="graphic-design.html">Graphic Design</a></h6>
+			<h6 class="card-title mb-2"><a href="graphic-design">Graphic Design</a></h6>
 			<p class="small mb-0">Write your story in style with our sleek, branded pen—where elegance meets everyday practicality. Make your mark today.</p>
 		</div>
 		
 		<!-- Card footer -->
 		<div class="card-footer bg-transparent d-flex justify-content-between px-2 py-0">
-			<a class="icon-link icon-link-hover stretched-link text-dark" href="graphic-design.html">Read more<i class="bi bi-arrow-right"></i> </a>
+			<a class="icon-link icon-link-hover stretched-link text-dark" href="graphic-design">Read more<i class="bi bi-arrow-right"></i> </a>
 		</div>
 	</article>
 </div>
@@ -632,13 +632,13 @@ Blog list and sidebar START -->
 		<!-- Card Body -->
 		<div class="card-body px-2 pb-4">
 			<!-- Title -->
-			<h6 class="card-title mb-2"><a href="lanyard.html">Lanyard</a></h6>
+			<h6 class="card-title mb-2"><a href="lanyard">Lanyard</a></h6>
 			<p class="small mb-0">We transform ideas into visually compelling solutions that communicate, inspire, and engage. Whether it’s through graphic design, product design, or digital layouts.</p>
 		</div>
 		
 		<!-- Card footer -->
 		<div class="card-footer bg-transparent d-flex justify-content-between px-2 py-0">
-			<a class="icon-link icon-link-hover stretched-link text-dark" href="lanyard.html">Read more<i class="bi bi-arrow-right"></i> </a>
+			<a class="icon-link icon-link-hover stretched-link text-dark" href="lanyard">Read more<i class="bi bi-arrow-right"></i> </a>
 		</div>
 	</article>
 </div>
@@ -655,13 +655,13 @@ Blog list and sidebar START -->
 		<!-- Card Body -->
 		<div class="card-body px-2 pb-4">
 			<!-- Title -->
-			<h6 class="card-title mb-2"><a href="jotter.html">Jotter</a></h6>
+			<h6 class="card-title mb-2"><a href="jotter">Jotter</a></h6>
 			<p class="small mb-0">Organize your day ahead throughout the year with our perfect A5 Diary, Notepads and Jotter Print.</p>
 		</div>
 		
 		<!-- Card footer -->
 		<div class="card-footer bg-transparent d-flex justify-content-between px-2 py-0">
-			<a class="icon-link icon-link-hover stretched-link text-dark" href="jotter.html">Read more<i class="bi bi-arrow-right"></i> </a>
+			<a class="icon-link icon-link-hover stretched-link text-dark" href="jotter">Read more<i class="bi bi-arrow-right"></i> </a>
 		</div>
 	</article>
 </div>
@@ -730,7 +730,7 @@ Footer START -->
 			<!-- Widget 1 START -->
 			<div class="col-lg-3">
 				<!-- logo -->
-				<a class="me-0" href="index-2.html">
+				<a class="me-0" href="index-2">
 					<img class="h-40px" src="assets/images/logo-light.svg" alt="Omart logo">
 				</a>
 
