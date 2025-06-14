@@ -4,7 +4,7 @@
 
 <head>
 
-	<title>Omart Cr8tivity Design | Print & Brnaing in Lagos Nigeria</title>
+	<title>Omart Cr8tivity Design | Print & Branding in Lagos Nigeria</title>
 
 	<!-- Meta Tags -->
 	<meta charset="utf-8">
@@ -15,11 +15,11 @@
 	<!-- Og -->
 	<meta property="og:locale" content="en_US" />
 	<meta property="og:type" content="article" />
-	<meta property="og:title" content="Omart Cr8tivity Design | Print & Brnaing in Lagos Nigeria" />
+	<meta property="og:title" content="Omart Cr8tivity Design | Print & Branding in Lagos Nigeria" />
 	<meta property="og:description" content="Transform your ideas into captivating designs, bring them to life with high-quality 
 	printing, and build a strong, memorable brand that resonates with your audience within Lagos Nigeria" />
-	<meta property="og:image" content="https://omart-app.web.app/assets/images/blog/4by4/businesscard.jpg" />
-	<meta property="og:url" content="https://omart-app.web.app/" />
+	<meta property="og:image" content="https://omartcreativity.com/assets/images/blog/4by4/businesscard.jpg" />
+	<meta property="og:url" content="https://omartcreativity.com/" />
 	<meta property="og:site_name" content="Hazken Digital" />
    <meta property="og:updated_time" content="2025-01-24T07:50:58+00:00" />
 	<meta property="og:image:width" content="410" />
@@ -118,6 +118,7 @@
 			<!-- Logo END -->
 
 			<!-- Main navbar START -->
+			 
 			<div class="navbar-collapse collapse" id="navbarCollapse">
 				<ul class="navbar-nav navbar-nav-scroll dropdown-hover mx-auto">
 
